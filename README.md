@@ -5,8 +5,6 @@
 | Polyvalent Employee | 11 months | working at a store during 42 Common Core |
 |...|...|...|
 
------
-
 ## Known languages
 
 | Python | C | SQL | HTML/CSS |
