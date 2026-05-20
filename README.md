@@ -6,6 +6,9 @@
 |...|...|...|
 
 -----
-| |Known Languages| | |
+
+## Known languages
+
+| Python | C | SQL | HTML/CSS |
 |:---:|:---:|:---:|:---:|
 |![python](./src/Python-logo-notext.svg.png "python") | ![C](./src/C_Logo.png "C") | ![SQL](./src/Sql_data_base_with_logo.png "SQL") | ![HTML/CSS](./src/CSS3_and_HTML5_logos_and_wordmarks.svg.png "HTML/CSS")
