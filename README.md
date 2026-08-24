@@ -41,4 +41,4 @@ Startup building a chatbot for bicycle maintenance. Shipped chatbot photo handli
 
 ---
 
-*Currently looking for a 6-month internship in AI / Backend / Game Development.*
+*Currently looking for a 6-month internship in Data / AI / Game Development.*
